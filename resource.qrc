@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/next.png</file>
+        <file>images/previous.png</file>
+        <file>images/sound.png</file>
+        <file>images/cycle.png</file>
+        <file>images/black_cycle.png</file>
+        <file>images/cycle_all.png</file>
+        <file>images/stop.png</file>
+        <file>images/no_audio.png</file>
+        <file>images/video.png</file>
+        <file>images/fullscreen.png</file>
+        <file>images/fullscreeen.png</file>
+        <file>images/laptop_icon.png</file>
+        <file>images/add_folder_green.png</file>
+        <file>images/remove.png</file>
+        <file>images/browse_folder.png</file>
+    </qresource>
+</RCC>
